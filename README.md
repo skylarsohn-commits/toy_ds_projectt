@@ -1,5 +1,9 @@
 # toy_ds_projectt
-in class demo for version control
+project creation date: Feb 02, 2026
+
+Author: Skylar Sohn
+
+-in class demo for version control
 
 - demo pen tool
 - demo git add, git commit, git push
